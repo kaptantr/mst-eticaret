@@ -1,13 +1,13 @@
-[![Build Status](https://travis-ci.org/jsdecena/laracom.svg?branch=master)](https://travis-ci.org/jsdecena/laracom)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Laracommerce/laracom/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Laracommerce/laracom/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/Laracommerce/laracom/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![codecov](https://codecov.io/gh/jsdecena/laracom/branch/master/graph/badge.svg)](https://codecov.io/gh/jsdecena/laracom)
-[![Fork Status](https://img.shields.io/github/forks/jsdecena/laracom.svg)](https://github.com/jsdecena/laracom)
-[![Star Status](https://img.shields.io/github/stars/jsdecena/laracom.svg)](https://github.com/jsdecena/laracom)
+[![Build Status](https://travis-ci.org/kaptantr/mst-eticaret.svg?branch=master)](https://travis-ci.org/kaptantr/mst-eticaret)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/kaptantr/mst-eticaret/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/kaptantr/mst-eticaret/?branch=master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/kaptantr/mst-eticaret/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+[![codecov](https://codecov.io/gh/kaptantr/mst-eticaret/branch/master/graph/badge.svg)](https://codecov.io/gh/kaptantr/mst-eticaret)
+[![Fork Status](https://img.shields.io/github/forks/kaptantr/mst-eticaret.svg)](https://github.com/kaptantr/mst-eticaret)
+[![Star Status](https://img.shields.io/github/stars/kaptantr/mst-eticaret.svg)](https://github.com/kaptantr/mst-eticaret)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/larac0m/Lobby)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com/kaptantr/mst-eticaret.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com/kaptantr/mst-eticaret?ref=badge_shield)
 
-# Laravel FREE E-Commerce Software
+# Laravel E-Commerce Project
 
 Features Provided
 - Products
@@ -21,7 +21,7 @@ Features Provided
 - Employees
 
 - To view more details of the features 
-See full [documentation](https://shop.laracom.net/docs)
+See full [documentation](https://shop.izlordsoft.com/docs)
 
 # Simplified DOCKER setup
 
@@ -32,15 +32,12 @@ See full [documentation](https://shop.laracom.net/docs)
 
 # Author
 
-[Jeff Simons Decena](https://jsdecena.me)
+[Mesut EROL](https://izlordsoft.com)
 
 # Contributors
 
-[Contributors](https://github.com/Laracommerce/laracom/graphs/contributors)
-
-# Get discount on Digital Ocean
-Sign-up with [Digital Ocean and get $10 discount](https://m.do.co/c/bce94237de96)!
+[Contributors](https://github.com/kaptantr/mst-eticaret/pulse)
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com/kaptantr/mst-eticaret.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com/kaptantr/mst-eticaret?ref=badge_large)
