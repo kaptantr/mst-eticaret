@@ -37,4 +37,4 @@ See full [documentation](https://shop.izlordsoft.com/docs)
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com/kaptantr/mst-eticaret.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com/kaptantr/mst-eticaret?ref=badge_large)
+
